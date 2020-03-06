@@ -1,0 +1,27 @@
+Pozn.: Nìkteré odpovìdi se mohou lišit v jiných programovacích jazycích, ptám se na C# a "svìt" .NET Frameworku.
+Pozn. 2: U pøíkladù, kdy máte zapsat zdrojový kód nezapomeòte støedníky, závorky atd. Kód by mìl být bez syntaktických chyb.
+
+1) 
+a) Co je to algoritmus? 
+b) Jaké jsou zpùsoby jejich zápisu? 
+c) Jaké jsou tøi základní vlastnosti algoritmù?
+
+2)
+a) Jaké znáte programovací jazyky? 
+b) Co znamená, když øekneme, že je programovací jazyk kompilovaný nebo interpretovaný?
+c) Rozdìlte uvedené jazyky do tìchto skupin.
+
+3) 
+a) Pokuste se popsat, co jsou to datové typy.
+b) Vypište všechny datové typy, které znáte, a rozdìlte je do skupin hodnotové/referenèní.
+c) Kolik místa v pamìti zabírá datový typ int a jaké nejmenší èíslo lze do nìj uložit (nemusíte uvádìt pøesné èíslo, staèí "výraz" - napø. zlomek, mocnicnu atd.)?
+
+4)
+a) Jaké znáte typy cyklù a jaký je mezi nimi rozdíl?
+b) Napište jejich základní syntaxi
+
+5) 
+a) Co je to pole? 
+b) Napište deklaraci promìnné X typu pole celých èísel, která obsahuje èísla 7 a 9.
+c) Jak se jmenuje tøída (plný název vèetnì namespace) kterou použijete pro kopírování souborù?
+d) Jaký je rozdíl mezi metodami Insert a Add na tøídì List?

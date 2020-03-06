@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Tvary", "OOP_Tvary.csproj", "{F7E8532B-D682-4233-A59B-4D7D85BDB7BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7E8532B-D682-4233-A59B-4D7D85BDB7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E8532B-D682-4233-A59B-4D7D85BDB7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E8532B-D682-4233-A59B-4D7D85BDB7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E8532B-D682-4233-A59B-4D7D85BDB7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA8CF6B9-520F-4B52-ADB8-F706F9E8024D}
+	EndGlobalSection
+EndGlobal

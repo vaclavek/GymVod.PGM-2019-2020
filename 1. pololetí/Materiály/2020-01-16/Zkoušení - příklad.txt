@@ -1,0 +1,12 @@
+Těžká úloha:
+Vytvořte aplikaci, která bude sloužit jako "databáze měst".
+Do databáze půjdou zadávat nová města, u každého města bude informace kolik má obyvatel.
+V databázi půjde vyhledávat.
+Z databáze půjde mazat.
+Databázi lze zobrazit celou.
+Bonus: Databázi je možné uložit na disk a načíst ji z něj.
+
+Může to být WinForm aplikace, konzolová aplikace ... cokoli.
+
+Střední úloha:
+Napiš funkci, která celé číslo převede na římské číslo.

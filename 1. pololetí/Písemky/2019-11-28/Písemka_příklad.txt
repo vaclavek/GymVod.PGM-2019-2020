@@ -1,0 +1,1 @@
+Naètìte	z konzole od uivatele èíslo a napište algoritmus, kterı urèí, zda se jedná o prvoèíslo.

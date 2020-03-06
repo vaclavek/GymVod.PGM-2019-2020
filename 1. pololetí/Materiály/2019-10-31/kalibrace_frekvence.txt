@@ -1,0 +1,24 @@
+﻿Část 1)
+Máte přístroj, který musíte zkalibrovat. Přístroj ukazuje v sekvenci změny frenvence. Například hodnota +6 znamená, že ze aktuální frenvence zvýšila o 6, hodnota -3 znamená, že se aktuální frenvence snížila o 3 atd. Vaším cílem je určit výslednou frekvenci (výsledek kalibrace) po všech krocích.
+
+Příklad:
+Pro změny frekvencie +1, -2, +3, +1 se začátkem v nule se stanou následující změny:
+
+Počáteční frekvence 0, změna +1, výsledná frekvence: 1
+Frekvence 1, změna -2, výsledná frekvence: -1
+Frekvence -1, změna +3, výsledná frekvence 2
+Frekvence 2, změna +1, výsledná frekvence 3
+
+Výsledek kalibrace je tedy 3.
+
+
+
+
+
+Část 2)
+Zaznamenali jste, že "výsledná frekvence" se v různých krocích opakuje. Zjistěte, kterou "výslednou frekvenci" přístroj poprvé dosáhne dvakrát. Po posledním kroku přístroj kalibruje od začátku tak dlouho, že některé "výsledné frekvence" dosáhne dvakrát.
+
+Příklad:
+Změny frekvence: +3, +3, +4, -2, -4. První frekvence, kterou přístroj dosáhne dvakrát je 10.
+Změny frekvence: -6, +3, +8, +5, -6. První frekvence, kterou přístroj dosáhne dvakrát je 5.
+Změny frekvence: +7, +7, -2, -7, -4. První frekvence, kterou přístroj dosáhne dvakrát je 14.

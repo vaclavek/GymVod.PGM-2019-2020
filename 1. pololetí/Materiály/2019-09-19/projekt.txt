@@ -1,0 +1,46 @@
+Tım 1: Veronika, Eliška, Eva - 
+Tım 2: Tomáš Reichl, Jan Provazník, Jiøí Šáda
+Tım 3: Devon Holan, Jakub Marek, Matyáš Halíø
+Tım 4: Petr Jechumtál a Jan Košler
+Tım 5: Jan Flajík a Jiøí Mıl
+
+---
+Tım 1: matematickı pomocník - goniometrie
+Tım 2: doladíme s Honzou ? :-)
+Tım 3: hra na principu odráení, ovládaná klávesnicí
+Tım 4: Rezervaèní aplikace
+Tım 5: doladíme taky :-)
+
+---
+
+1. "Arkanoid"
+2. "Pong"
+3. Matematickı pomocník - vıpoèet rovnic, nerovnic, grafy, kombinaèní èísla, goniometrie, rovnice vyšších øádù
+4. Matice - úpravy, sèítání, násobení
+5. Šifrovací aplikace
+6. "Hledání min"
+7. Rezervaèní aplikace
+8. "Piškvorky"
+9. Grafika - snìení / déš atp. (Unity)
+10. "Game of life"
+11. "robot Karel"
+12. Fyzikální pomocník - Newtonovská fyzika, matematické kyvadlo, sinová a cosinová vìta, pohyb po krunici ...
+
+
+
+
+
+
+
+
+termíny:
+10. 10. - seznámení s problémem, co budete dìlat, naplánovanı rozsah, rozdìlené role
+
+31. 10. - rozbìhnutí projektu, repozitáø pro zdrojové kódy, metoda komunikace, nastavení schùzek, 
+	prototypování, urèení "správné cesty", pøípadná úprava rozsahu práce, zmìna rolí
+	
+28. 11. - projekt pokraèuje, ukáete stav, cíle, zhodnotíte jestli jedete "podle plánu", úprava rozsahu
+
+19. 12. - "témìø" hotovo, testování, (dokumentace), pøíprava na odevzdání
+
+9. 1. 2020 - hotovo
