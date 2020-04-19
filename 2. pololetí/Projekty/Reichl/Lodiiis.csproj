@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Reichl</AssemblyName>
+    <RootNamespace>Reichl</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Obfuscar" Version="2.2.25">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="GymVod.Battleships.Common">
+      <HintPath>..\references\GymVod.Battleships.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="GymVod.Battleships.Services">
+      <HintPath>..\references\GymVod.Battleships.Services.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

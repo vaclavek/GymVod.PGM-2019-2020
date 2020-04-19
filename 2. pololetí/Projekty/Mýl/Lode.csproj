@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Myl</AssemblyName>
+    <RootNamespace>Myl</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="GymVod.Battleships.Common">
+      <HintPath>..\references\GymVod.Battleships.Common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
