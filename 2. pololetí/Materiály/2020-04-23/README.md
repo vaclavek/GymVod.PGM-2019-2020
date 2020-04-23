@@ -5,11 +5,11 @@
 ## Obsah
 
 Na dnešní hodině jsme si prošli tři typové příklady jako přípravu k maturitě:
-1) algoritmy - největší spolčný dělitel
-2) datové typy a práce s ASCII tabulkou - generování znaků
-3) numerické metody - určitý integrál
+1) Algoritmy - největší společný dělitel
+2) Datové typy a práce s ASCII tabulkou - generování znaků
+3) Numerické metody - určitý integrál
 
-## 1. Algoritmy - největší spolčný dělitel
+## 1. Algoritmy - největší společný dělitel
 - Určete největšího společného dělitele čísel x a y
 - Čísla x a y zadá uživatel 
 - Určete počet jejich společných dělitelů
