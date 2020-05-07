@@ -1,5 +1,7 @@
 # Seminář 7. 5. 2020
 
+**Záznam hodiny: [https://youtu.be/KTVONvpYo_k](https://youtu.be/KTVONvpYo_k)**
+
 ## Obsah
 
 Na dnešní hodině jsme si zopakovali objektově orientované programování v C# a zadali domácí úkol z Grafiky a GUI.
