@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="GymVod.Battleships.Common">
+      <HintPath>D:\Škola\Programování\battlegui\battlegui\dll\GymVod.Battleships.Common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
